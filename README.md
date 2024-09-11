@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Machine Learning Enthusiast from India. I love working on exciting projects, learning new technologies, and contributing to open source.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=peeyushdutt01&color=blue)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/peeyush-dutt-b35954289)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:peeyushdutt01@gmail.com)
 
