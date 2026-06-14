@@ -10,7 +10,7 @@ India
 
 ## About
 
-I am a final-year engineering student specializing in **Artificial Intelligence and Machine Learning**, with a strong focus on **NLP and applied ML systems**. My work centers on building **practical, end-to-end machine learning solutions** from data preprocessing and model training to integration within usable applications.
+I am an ai engineer, with a strong focus on **NLP and applied ML systems**. My work centers on building **practical, end-to-end AI solutions and workflows** from data preprocessing and model training to integration within usable applications.
 
 I prioritize **fundamental understanding, clean implementation, and real-world relevance** over surface-level experimentation. My goal is to work on production-oriented AI systems that solve concrete problems.
 
